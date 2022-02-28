@@ -11,7 +11,7 @@ h1{
 body{
     height: 100vh;
     width: 100%;
-    background-image: url("pexels-photo-5717479.jpeg");
+    background-colour: rgba(255,192,203,1);
     background-size: cover;
     margin:0px;
     
